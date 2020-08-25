@@ -1,8 +1,8 @@
-package seita.k1229.example.aws.lambda.scheduler.handler;
+package jp.lemon.art.example.aws.lambda.scheduler.handler;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestHandler;
-import seita.k1229.example.aws.lambda.scheduler.main.SchedulerStartupMain;
+import jp.lemon.art.example.aws.lambda.scheduler.main.SchedulerStartupMain;
 
 /**
  * AWS Lambda Handle.<br>

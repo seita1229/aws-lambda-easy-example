@@ -1,4 +1,4 @@
-package seita.k1229.example.aws.lambda.apigateway.utils;
+package jp.lemon.art.example.aws.lambda.apigateway.utils;
 
 import com.amazonaws.services.lambda.runtime.events.APIGatewayProxyResponseEvent;
 import com.google.gson.Gson;

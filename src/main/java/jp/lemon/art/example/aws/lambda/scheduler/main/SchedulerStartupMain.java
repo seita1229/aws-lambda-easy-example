@@ -1,4 +1,4 @@
-package seita.k1229.example.aws.lambda.scheduler.main;
+package jp.lemon.art.example.aws.lambda.scheduler.main;
 
 /**
  * AWS Lambda Main.<br>

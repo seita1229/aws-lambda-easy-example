@@ -1,11 +1,11 @@
-package seita.k1229.example.aws.lambda.apigateway.main;
+package jp.lemon.art.example.aws.lambda.apigateway.main;
 
 import java.net.HttpURLConnection;
 import java.util.HashMap;
 import java.util.Map;
 import org.apache.commons.collections4.MapUtils;
 import com.amazonaws.services.lambda.runtime.events.APIGatewayProxyResponseEvent;
-import seita.k1229.example.aws.lambda.apigateway.utils.CreateAWSAPIGatewayResponse;
+import jp.lemon.art.example.aws.lambda.apigateway.utils.CreateAWSAPIGatewayResponse;
 
 /**
  * AWS Lambda Main.<br>

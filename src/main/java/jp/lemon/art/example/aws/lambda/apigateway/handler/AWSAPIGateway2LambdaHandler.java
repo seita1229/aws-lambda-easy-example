@@ -1,10 +1,10 @@
-package seita.k1229.example.aws.lambda.apigateway.handler;
+package jp.lemon.art.example.aws.lambda.apigateway.handler;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestHandler;
 import com.amazonaws.services.lambda.runtime.events.APIGatewayProxyRequestEvent;
 import com.amazonaws.services.lambda.runtime.events.APIGatewayProxyResponseEvent;
-import seita.k1229.example.aws.lambda.apigateway.main.AWSAPIGateway2LambdaMain;
+import jp.lemon.art.example.aws.lambda.apigateway.main.AWSAPIGateway2LambdaMain;
 
 /**
  * AWS Lambda Handle.<br>
